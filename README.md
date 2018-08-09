@@ -157,6 +157,10 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) - Z. Cao et al, CVPR2017. [[code]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) depends on the [[caffe RT pose]](https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose.git) - Earlier version of OpenPose from CMU.
 
 
+## Video Understanding Companies and Startups:
+* [Sensifai](http://sensifai.com/)
+
+
 ## Licenses
 License
 
